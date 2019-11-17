@@ -1,0 +1,9 @@
+C:\Users\fartu\source\repos\DataWrem\DataWrem\bin\Debug\DataWrem.exe.config
+C:\Users\fartu\source\repos\DataWrem\DataWrem\bin\Debug\DataWrem.exe
+C:\Users\fartu\source\repos\DataWrem\DataWrem\bin\Debug\DataWrem.pdb
+C:\Users\fartu\source\repos\DataWrem\DataWrem\obj\Debug\DataWrem.csprojAssemblyReference.cache
+C:\Users\fartu\source\repos\DataWrem\DataWrem\obj\Debug\DataWrem.Form1.resources
+C:\Users\fartu\source\repos\DataWrem\DataWrem\obj\Debug\DataWrem.Properties.Resources.resources
+C:\Users\fartu\source\repos\DataWrem\DataWrem\obj\Debug\DataWrem.csproj.GenerateResource.cache
+C:\Users\fartu\source\repos\DataWrem\DataWrem\obj\Debug\DataWrem.exe
+C:\Users\fartu\source\repos\DataWrem\DataWrem\obj\Debug\DataWrem.pdb
