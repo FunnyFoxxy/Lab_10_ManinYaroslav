@@ -1,2 +1,1 @@
-# Lab_10_ManinYaroslav
-Лабораторная работа номер 10, студента группы 374 Манина Ярослава
+# Lab_11_ManinYaroslav_AlekseevIgor    
